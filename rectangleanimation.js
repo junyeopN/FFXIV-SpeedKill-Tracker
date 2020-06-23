@@ -13,9 +13,6 @@ var x2_0 = 80;
 
 var dx = 1;
 
-var color_list = ["black", "red", "blue", "green"]
-var index = 0;
-
 var animationIntervalId = -1;
 
 function draw() {

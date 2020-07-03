@@ -88,16 +88,42 @@ body {
 
     color: white;
     background-color: #6c18e8;
+    
+    text-align: center;
 }
 
-#mainscreen #todolist {
-    width: 100%;
-    height: 50%;
+#mainscreen #downloadtext {
+    width: 80%;
 
-    background-color: blueviolet;
+    font-size: 26px;
 
-    display: block;
+    text-align: center;
+
+    margin-top: 3%;
+
+    display: inline-block;
+}
+
+#mainscreen #demoimage {
+    margin-top: 1%;
+}
+
+#mainscreen #downloadbutton {
+    width: 15%;
+
+    margin-top: 5%;
+    
+    background-color: red;
+
+    display: inline-block;
 
 }
 
+#mainscreen #downloadbutton a {
+    text-decoration: none;
+    color: white;
+}
 
+#mainscreen #downloadbutton a:hover {
+    text-decoration: underline;
+}

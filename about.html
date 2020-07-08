@@ -2,6 +2,8 @@
     <head>
         <meta charset = "utf-8">
         <link rel="stylesheet" href="static/style.css">
+        <link rel="stylesheet" href="static/styleabout.css">
+
 
         <title> FFXIV SpeedKill Tracker </title>
     </head>
@@ -14,7 +16,7 @@
             
             
             <div class="menu">
-                <b style="font-size: 16px;"> <a href="">SpeedTracker</a> </b>
+                <b style="font-size: 16px;"> <a href="index.html">SpeedTracker</a> </b>
             </div>
 
             <div class="menu">
@@ -51,27 +53,36 @@
         </div>
 
         <div id="mainbody">
-            <div id="downloadtext"> 
-               <p> 
-                    <b> 
-                        FFXIV Speedkill Tracker is a software used to compare your run with the current World Record Run. </br>
-                        It gives you a good checkpoint of whether your run is going well based on various checkpoints chosen by
-                        the program. 
-                    </b>
-               </p>
+            <div id="toptext">
+               There are two modes in FFXIV Speedkill Tracker: <b> HPTracker </b> and <b> SpeedTracker </b> <br>
+            </div> 
+
+            <div class="aboutmodedescriptionbox">
+                <img src="static/hptracker.png"> <br>
+
+                <h3> 1. HPTracker </h3>
+
+                <p>
+                    If the raid has one main boss, we have to <br>
+                    measure how much hp the boss has at <br>
+                    the end of each phase.
+                </p>
             </div>
 
-            <div id="demoimage">
-               <img src= static/demo.png alt="Demo Image"> 
+            <div class="aboutmodedescriptionbox">
+                <img src="static/speedtracker.png">
+
+                <h3> 2. SpeedTracker </h3>
+
+                <p> 
+                    If the raid has different bosses in each phases, <br>
+                    we have to measure the time that each phase <br> 
+                    ended in. 
+                </p>
             </div>
-           
-            <div id="downloadbody">
-                <button type="submit" id="downloadbutton" onclick="window.open('FFXIV_Speedkill_Tracker.zip')"> 
-                    <script src="downloadbuttonanimation.js" defer> </script>
-                        <b> DOWNLOAD </b>
-                </button> 
-            </div>
+
         </div>
+
 
         <div id="quickmenu">
             <div class="quickmenuelement">

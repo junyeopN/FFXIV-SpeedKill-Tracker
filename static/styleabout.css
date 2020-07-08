@@ -1,0 +1,30 @@
+#mainbody #toptext {
+    width: 80%;
+
+    font-size: 26px;
+
+    text-align: center;
+
+    margin-top: 3%;
+
+    display: inline-block;
+}
+
+#mainbody .aboutmodedescriptionbox {
+    width: 30%;
+    height: 50%;
+
+    margin-top: 1%;
+
+    vertical-align: top;
+
+    display: inline-block;
+}
+
+#mainbody .aboutmodedescriptionbox img {
+    margin-top: 10%;
+}
+
+#mainbody .aboutmodedescriptionbox p {
+    font-size: 15pt;
+}

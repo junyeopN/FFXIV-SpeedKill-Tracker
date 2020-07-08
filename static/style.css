@@ -96,11 +96,11 @@ body {
     display: inline-block;
 }
 
-#mainscreen {
+#mainbody {
     width: 100%;
-    height: 150%;
+    height: 60%;
 
-    margin-top: 3%;
+    margin-top: 2%;
 
     font-size: 32px;
 
@@ -110,7 +110,7 @@ body {
     text-align: center;
 }
 
-#mainscreen #downloadtext {
+#mainbody #downloadtext {
     width: 80%;
 
     font-size: 26px;
@@ -122,22 +122,11 @@ body {
     display: inline-block;
 }
 
-#mainscreen #demoimage {
+#mainbody #demoimage {
     margin-top: 1%;
 }
 
-#mainscreen #downloadbutton {
-    width: 15%;
-
-    margin-top: 5%;
-    
-    background-color: red;
-
-    display: inline-block;
-
-}
-
-#mainscreen #downloadbody {
+#mainbody #downloadbody {
     width: 10%;
     height: 3%;
 
@@ -150,10 +139,10 @@ body {
     display: inline-block;
 }
 
-#mainscreen #downloadbody #downloadbutton {
+#mainbody #downloadbody #downloadbutton {
     width: 100%;
 
-    background-color: red;
+    background-color: #ff2b00;
     color: white;
 
     font-size: 16pt;
@@ -171,11 +160,9 @@ body {
 
 #quickmenu {
     width: 100%;
-    height: 20%;
+    height: 30%;
 
     background-color: white;
-
-    margin-top: 5%;
 
     text-align: center;
 }

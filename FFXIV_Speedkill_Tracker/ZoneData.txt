@@ -1,0 +1,144 @@
+﻿레이크랜드
+8:32
+50398440
+6
+1. 오프닝 후
+무리의 중심에서 응축된
+HPCheckPoints
+45100000
+2. 2분 버스트 후
+어둠의 우상 starts using 백야 기동 on 어둠의 우상.
+HPCheckPoints
+30100000
+3. 쫄페 전
+Added new combatant 숭배
+HPCheckPoints
+25600000
+4. 쫄페 후
+강력한 공격에 대비하세요
+TimeCheckPoints
+4:52
+5. 막페 전
+어둠의 우상 starts using 무리 돌진 on 어둠의 우상.
+HPCheckPoints
+5810000
+희망의 낙원 에덴: 공명편(영웅) (1)
+6:57
+54990880
+8
+1. 오프닝 후
+라무 starts using 심판의 열뢰 on 라무.
+HPCheckPoints
+49300000
+2. 넉백
+라무의 환영 starts using 죽음의 방전 on 라무의 환영.
+HPCheckPoints
+39200000
+3. 번개 폭풍 1
+라무 starts using 번개 폭풍 on 라무.
+HPCheckPoints
+33700000
+4. 14퓨리
+라무 starts using 14연속 번개 충전 on 라무.
+HPCheckPoints
+25600000
+5. 번개 사슬
+라무 starts using 번개 사슬 on 라무.
+HPCheckPoints
+17000000
+6. 번개 폭풍 2
+라무 starts using 번개 폭풍 on 라무.
+HPCheckPoints
+12100000
+7. 라스트 버스트
+라무 starts using 심판의 열뢰 on 라무.
+HPCheckPoints
+6790000
+희망의 낙원 에덴: 공명편(영웅) (2)
+6:57
+52430480
+6
+1. 오프닝 후
+가루다 starts using 분노의 폭풍 on 가루다.
+HPCheckPoints
+48015240
+2. 가루다 End
+신색자약
+HPCheckPoints
+37315240
+3. 이프리트 End
+불과 바람을 동시에 불러낸 어리석은 짓을 후회하게 해주마
+HPCheckPoints
+22100000
+4. 트리니티 End
+그렇다면 내 바람의 힘을
+HPCheckPoints
+13720000
+5. 라스트 버스트 전
+락타팍샤 starts using 사나운 폭풍 on 락타팍샤.
+HPCheckPoints
+7400000
+희망의 낙원 에덴: 공명편(영웅) (3)
+8:32
+50398440
+6
+1. 오프닝 후
+무리의 중심에서 응축된
+HPCheckPoints
+45100000
+2. 2분 버스트 후
+어둠의 우상 starts using 백야 기동 on 어둠의 우상.
+HPCheckPoints
+30100000
+3. 쫄페 전
+Added new combatant 숭배
+HPCheckPoints
+25600000
+4. 쫄페 후
+강력한 공격에 대비하세요
+TimeCheckPoints
+4:52
+5. 막페 전
+어둠의 우상 starts using 무리 돌진 on 어둠의 우상.
+HPCheckPoints
+5810000
+희망의 낙원 에덴: 공명편(영웅) (4)
+11:33
+72360160
+10
+1. 오프닝 후
+시바 starts using 거울 나라 on 시바.
+HPCheckPoints
+67546600
+2. 1 탱버
+시바 starts using 이중 타격
+HPCheckPoints
+59437236
+3. 2 거울
+시바 starts using 거울 나라 on 시바.
+HPCheckPoints
+50291000
+4. 1페 종료
+아아, 강한 빛이여, 모든 것을 얼려서
+HPCheckPoints
+45493833
+5. 3페 1버스트 후
+시바 starts using 거울 나라 on 시바.
+HPCheckPoints
+39041000
+6. 1 아크라이
+시바 starts using 이중 타격
+HPCheckPoints
+24940316
+7. 홀리
+시바 starts using 홀리
+HPCheckPoints
+16525000
+8. 2 몬아파
+시바 starts using 몬 아파
+HPCheckPoints
+10360000
+9. 라스트 버스트 전
+시바 starts using 얼음과 빛의 용시 on 시바.
+HPCheckPoints
+7892582

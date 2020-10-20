@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{27C820F9-1A1B-4277-AB42-2CCC408E7C69}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FFXIV_Speedkill_Tracker</RootNamespace>
+    <AssemblyName>FFXIV_Speedkill_Tracker</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Advanced Combat Tracker">
+      <HintPath>..\..\..\Advanced Combat Tracker.exe</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CheckPointDataTable.cs" />
+    <Compile Include="CheckPointDataTableFactory.cs" />
+    <Compile Include="DifferenceCalculator.cs" />
+    <Compile Include="FightData.cs" />
+    <Compile Include="FightDataFactory.cs" />
+    <Compile Include="HeightSetter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RaidZoneTitleTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SizeSetter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SizeSetterTitleTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SpeedRunTrackerTable.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="StartTrackerButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TrackerData.cs" />
+    <Compile Include="FFXIVDataTypes.cs" />
+    <Compile Include="TrackerHP.cs" />
+    <Compile Include="TrackerPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrackerTime.cs" />
+    <Compile Include="FFXIVSpeedkillTracker.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TimeFormatter.cs" />
+    <Compile Include="WidthSetter.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ZoneFileReader.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ZoneBoss.txt" />
+    <Content Include="ZoneData.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

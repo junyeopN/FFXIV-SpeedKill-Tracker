@@ -1,0 +1,12 @@
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\obj\Debug\FFXIV_Speedkill_Tracker.csprojAssemblyReference.cache
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\obj\Debug\FFXIV_Speedkill_Tracker.csproj.CoreCompileInputs.cache
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\bin\Debug\FFXIV_Speedkill_Tracker.dll
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\bin\Debug\FFXIV_Speedkill_Tracker.pdb
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\bin\Debug\Advanced Combat Tracker.exe
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\bin\Debug\GammaJul.LgLcd.dll
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\bin\Debug\Trinet.Core.IO.Ntfs.dll
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\bin\Debug\Advanced Combat Tracker.exe.config
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\obj\Debug\FFXIV_Speedkill_Tracker.csproj.CopyComplete
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\obj\Debug\FFXIV_Speedkill_Tracker.dll
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\obj\Debug\FFXIV_Speedkill_Tracker.pdb

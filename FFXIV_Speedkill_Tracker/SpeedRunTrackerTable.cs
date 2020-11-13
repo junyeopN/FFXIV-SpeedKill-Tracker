@@ -14,7 +14,7 @@ namespace FFXIV_Speedkill_Tracker
         public readonly int WORLD_RECORD_COLUMN = 2;
         public readonly int TIME_DIFFERENCE_COLUMN = 3;
 
-        public readonly int MAX_COLUMN_COUNT = 10;
+        public readonly int MAX_COLUMN_COUNT = 12;
 
 
         public SpeedRunTrackerTable(int width, int height)

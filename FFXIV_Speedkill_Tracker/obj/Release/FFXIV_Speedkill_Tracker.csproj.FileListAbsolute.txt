@@ -9,3 +9,4 @@ C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Track
 C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\obj\Release\FFXIV_Speedkill_Tracker.csproj.CopyComplete
 C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\obj\Release\FFXIV_Speedkill_Tracker.dll
 C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\obj\Release\FFXIV_Speedkill_Tracker.pdb
+C:\Advanced Combat Tracker\Plugins\FFXIV_Speedkill_Tracker\FFXIV_Speedkill_Tracker\obj\Release\FFXIV_Speedkill_Tracker.csprojAssemblyReference.cache

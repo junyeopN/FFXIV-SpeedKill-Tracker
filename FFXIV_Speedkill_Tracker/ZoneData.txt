@@ -1,111 +1,163 @@
 ﻿레이크랜드
-8:32
-50398440
-6
-1. 오프닝 후
-무리의 중심에서 응축된
-HPCheckPoints
-45100000
-2. 2분 버스트 후
-어둠의 우상 starts using 백야 기동 on 어둠의 우상.
-HPCheckPoints
-30100000
-3. 쫄페 전
-Added new combatant 숭배
-HPCheckPoints
-25600000
-4. 쫄페 후
-강력한 공격에 대비하세요
-TimeCheckPoints
-4:52
-5. 막페 전
-어둠의 우상 starts using 무리 돌진 on 어둠의 우상.
-HPCheckPoints
-5810000
-희망의 낙원 에덴: 공명편(영웅) (1)
 6:57
 54990880
-8
+10
 1. 오프닝 후
-라무 starts using 심판의 열뢰 on 라무.
+라무 starts using 심판의 계뢰 on 라무.
 HPCheckPoints
-49300000
-2. 넉백
+49305756
+2. 2광역
+번개충전
+HPCheckPoints
+47420074
+3. 넉백
 라무의 환영 starts using 죽음의 방전 on 라무의 환영.
 HPCheckPoints
 39200000
-3. 번개 폭풍 1
+4. 번개 폭풍 1
 라무 starts using 번개 폭풍 on 라무.
 HPCheckPoints
 33700000
-4. 14퓨리
-라무 starts using 14연속 번개 충전 on 라무.
+5. 3 탱버
+라무 starts using 통타
 HPCheckPoints
-25600000
-5. 번개 사슬
+29951361
+6. 14퓨리
+라무 starts using 사념체 생성 on 라무.
+HPCheckPoints
+23231227
+7. 번개 사슬
 라무 starts using 번개 사슬 on 라무.
 HPCheckPoints
 17000000
-6. 번개 폭풍 2
+8. 번개 폭풍 2
 라무 starts using 번개 폭풍 on 라무.
 HPCheckPoints
 12100000
-7. 라스트 버스트
+9. 라스트 버스트
+라무 starts using 심판의 열뢰 on 라무.
+HPCheckPoints
+6790000
+희망의 낙원 에덴: 공명편(영웅) (1)
+6:57
+54990880
+10
+1. 오프닝 후
+라무 starts using 심판의 계뢰 on 라무.
+HPCheckPoints
+49305756
+2. 2광역
+번개 충전
+HPCheckPoints
+47420074
+3. 넉백
+라무의 환영 starts using 죽음의 방전 on 라무의 환영.
+HPCheckPoints
+39200000
+4. 번개 폭풍 1
+라무 starts using 번개 폭풍 on 라무.
+HPCheckPoints
+33700000
+5. 3 탱버
+라무 starts using 통타
+HPCheckPoints
+29951361
+6. 14퓨리
+14연속
+HPCheckPoints
+25552400
+7. 번개 사슬
+라무 starts using 번개 사슬 on 라무.
+HPCheckPoints
+17000000
+8. 번개 폭풍 2
+라무 starts using 번개 폭풍 on 라무.
+HPCheckPoints
+12100000
+9. 라스트 버스트
 라무 starts using 심판의 열뢰 on 라무.
 HPCheckPoints
 6790000
 희망의 낙원 에덴: 공명편(영웅) (2)
 6:57
 52430480
-6
+9
 1. 오프닝 후
 가루다 starts using 분노의 폭풍 on 가루다.
 HPCheckPoints
-48015240
-2. 가루다 End
+46720000
+2. 1 진공베기
+가루다 starts using 진공베기 on 가루다.
+HPCheckPoints
+40836097
+3. 가루다 End
 신색자약
 HPCheckPoints
 37315240
-3. 이프리트 End
+4. 축구공
+이프리트 starts using 불놀이 on 이프리트.
+HPCheckPoints
+29300000
+5. 이프리트 End
 불과 바람을 동시에 불러낸 어리석은 짓을 후회하게 해주마
 HPCheckPoints
 22100000
-4. 트리니티 End
+6. 2 진공베기
+진공베기
+HPCheckPoints
+17200000
+7. 트리니티 End
 그렇다면 내 바람의 힘을
 HPCheckPoints
 13720000
-5. 라스트 버스트 전
+8. 라스트 버스트 전
 락타팍샤 starts using 사나운 폭풍 on 락타팍샤.
 HPCheckPoints
 7400000
 희망의 낙원 에덴: 공명편(영웅) (3)
 8:32
 50398440
-6
+10
 1. 오프닝 후
 무리의 중심에서 응축된
 HPCheckPoints
 45100000
-2. 2분 버스트 후
+2. Betwixt
+어둠의 우상이 차원 구멍을 시전했습니다.
+HPCheckPoints
+37300000
+3. 2분 버스트 후
 어둠의 우상 starts using 백야 기동 on 어둠의 우상.
 HPCheckPoints
 30100000
-3. 쫄페 전
+4. 쫄페 전
 Added new combatant 숭배
 HPCheckPoints
 25600000
-4. 쫄페 후
+5. 쫄페 후
 강력한 공격에 대비하세요
 TimeCheckPoints
 4:52
-5. 막페 전
+6. 포위의 호령
+어둠의 우상 starts using 포위의 호령 on 어둠의 우상.
+HPCheckPoints
+22900000
+7. 야습
+어둠의 우상 starts using 야습의 호령 on 어둠의 우상.
+HPCheckPoints
+16200000
+8. 마지막 광역
+어둠의 우상 starts using 허무의 파동 on 어둠의 우상.
+HPCheckPoints
+9900000
+9. 막페 전
 어둠의 우상 starts using 무리 돌진 on 어둠의 우상.
 HPCheckPoints
 5810000
 희망의 낙원 에덴: 공명편(영웅) (4)
 11:33
 72360160
-10
+12
 1. 오프닝 후
 시바 starts using 거울 나라 on 시바.
 HPCheckPoints
@@ -114,31 +166,39 @@ HPCheckPoints
 시바 starts using 이중 타격
 HPCheckPoints
 59437236
-3. 2 거울
+3. 아야토리
+시바 starts using 거울 나라 on 시바.
+HPCheckPoints
+55471646
+4. 2 거울
 시바 starts using 거울 나라 on 시바.
 HPCheckPoints
 50291000
-4. 1페 종료
+5. 1페 종료
 아아, 강한 빛이여, 모든 것을 얼려서
 HPCheckPoints
 45493833
-5. 3페 1버스트 후
+6. 3페 1버스트 후
 시바 starts using 거울 나라 on 시바.
 HPCheckPoints
 39041000
-6. 1 아크라이
+7. 이중 타격
 시바 starts using 이중 타격
 HPCheckPoints
-24940316
-7. 홀리
+26709939
+8. 보용
+시바 starts using 신성한 날개 on 시바.
+HPCheckPoints
+22649825
+9. 홀리
 시바 starts using 홀리
 HPCheckPoints
 16525000
-8. 2 몬아파
+10. 2 몬아파
 시바 starts using 몬 아파
 HPCheckPoints
 10360000
-9. 라스트 버스트 전
+11. 라스트 버스트 전
 시바 starts using 얼음과 빛의 용시 on 시바.
 HPCheckPoints
 7892582

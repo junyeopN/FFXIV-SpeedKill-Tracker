@@ -14,7 +14,7 @@ namespace FFXIV_Speedkill_Tracker
         private static readonly Size TRACKER_PAGE_SIZE_SETTER_INITIAL_SIZE = new Size(550, 360);
 
         private static readonly Point SPEED_RUN_TRACKER_TABLE_SIZE_SETTER_INITIAL_LOCATION = new Point(300, 250);
-        private static readonly Size SPEED_RUN_TRACKER_TABLE_SIZE_SETTER_INITIAL_SIZE = new Size(520, 340);
+        private static readonly Size SPEED_RUN_TRACKER_TABLE_SIZE_SETTER_INITIAL_SIZE = new Size(520, 305);
 
         public SizeSetter trackerPageSizeSetter = null;
         public SizeSetter speedRunTrackerTableSizeSetter = null;

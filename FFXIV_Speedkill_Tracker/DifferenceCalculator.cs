@@ -4,6 +4,9 @@ namespace FFXIV_Speedkill_Tracker
 {
     static class DifferenceCalculator
     {
+        /*
+         * TODO: 시간 차이 확인
+         */
         public static TrackerTime CalculateCurrentRunWorldRecordRunClearTimeDifference(FightData fightData, CheckPointDataTable checkPointDataTable)
         {
             TrackerTime currentRunClearTime = new TrackerTime(TimeFormatter.Format(fightData.Duration), false);
